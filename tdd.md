@@ -1,0 +1,16 @@
+-   What advantages as a developer does TDD provide?
+-   Fewer bugs and errors are the primary benefit of the TDD approach. When the code has fewer bugs, you'll spend less time fixing them than other programming methodologies. TDD produces a higher overall test coverage and, therefore to a better quality of the final product https://fortegrp.com/test-driven-development-benefits/#:~:text=Developers%20have%20less%20debugging%20to,quality%20of%20the%20final%20product.
+-   What steps do I do to implement TDD?
+-   1. Write A Test
+-   2. Start The Test
+-   3. Refine The Code
+-   4. Repeat The Process
+-   This entails that a person creates a test and fixes the code till the test passes. If it passes, then you are good to work on another part.
+-   What tools or software can I use to do unit testing?
+-   Junit (JAVA)
+-   NUnit (.Net)
+-   DBUnit (Databases java)
+-   HTMLUnit (Test HTML)
+-   PHPUnit (Test PHP with Junit)
+-   Jest (Javascript Testing)
+-   Karma (Frontend Testing)
